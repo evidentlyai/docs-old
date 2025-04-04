@@ -2,6 +2,12 @@
 description: Set up LLM tracing with tracely.
 ---   
 
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 For an end-to-end example, check the [Tracing Quickstart](../get-started/cloud_quickstart_tracing.md).
 
 # Installation and Imports
