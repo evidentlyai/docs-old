@@ -2,6 +2,10 @@
 description: How to add custom text descriptors.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 You can implement custom row-level evaluations for text data that you will later use just like any other descriptor across Metrics and Tests. You can implement descriptors that use a single column or two columns.
 
 Note that if you want to use LLM-based evaluations, you can write custom prompts using [LLM judge templates](llm_as_a_judge.md). 
