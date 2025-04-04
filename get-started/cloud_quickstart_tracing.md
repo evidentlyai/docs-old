@@ -2,6 +2,10 @@
 description: LLM tracing "Hello world." 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 This quickstart shows how to instrument a simple LLM app to send inputs and outputs to Evidently Cloud. You will use the open-source **Tracely** library.
 
 You will need an OpenAI key to create a toy LLM app.
