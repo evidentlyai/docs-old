@@ -2,6 +2,10 @@
 description: How to run evals in Python and upload to Evidently Platform.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 This page walks you through how to run evaluations locally in Python and send the results to Evidently Platform. This applies both to on-the-fly evaluations during experiments and to those you run automatically during batch monitoring or regression testing.
 
 Once you upload the evaluation results as JSON `snapshots`, you can explore, compare, and track them on the Evidently Platform.
