@@ -2,6 +2,11 @@
 description: How to use column mapping in Evidently.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 Column mapping helps map your input data schema or specify column types. For example, to run evaluation on text data, you must specify which columns in your dataset contain texts. This allows Evidently to process the input data correctly. 
 
 You can create a `ColumnMapping` object in Python prior to generating a Report or Test Suite or map the columns visually when working in the Evidently platform.
