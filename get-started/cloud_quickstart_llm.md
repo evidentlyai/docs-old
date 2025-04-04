@@ -3,7 +3,7 @@ description: LLM evaluation "Hello world."
 ---
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 This quickstart shows how to evaluate text data, such as inputs and outputs from your LLM system.
