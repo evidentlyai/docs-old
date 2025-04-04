@@ -2,6 +2,10 @@
 description: How to generate Reports using Evidently Python library.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Code examples
 
 Check the sample notebooks in [Examples](../examples/examples.md).
