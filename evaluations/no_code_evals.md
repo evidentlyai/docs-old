@@ -2,6 +2,10 @@
 description: How to evaluate your data in a no-code interface.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 The platform supports several evaluations directly from the user interface.
 
 | Name                    | Type       | Description                                                                                                                              |
