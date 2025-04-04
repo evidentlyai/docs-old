@@ -2,6 +2,10 @@
 description: How to show feature importance in Data Drift evaluations.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 You can add feature importances to the dataset-level data drift Tests and Metrics:
 * `DataDriftTable`
 * `TestShareOfDriftedColumns`
