@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # **What is Telemetry?**
 
 Telemetry refers to the collection of usage data. We collect some data to understand how many users we have and how they interact with Evidently. This helps us improve the tool and prioritize implementing the new features.
