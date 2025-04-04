@@ -2,6 +2,10 @@
 description: Code examples and tutorials.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Quick Start
 
 Check the short Quickstart examples [here](/get-started/README.MD).
