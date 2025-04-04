@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 **TL;DR:** You can combine different checks to test data quality, stability, and drift when you have a model with delayed feedback.
 
 * **Test Suite**: for pipeline checks, use the `NoTargetPerformanceTestPreset`.
