@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 Sometimes you need to generate multiple column-level Tests or Metrics.
 
 To simplify it, you can:
