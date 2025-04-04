@@ -1,6 +1,6 @@
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer docs [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 Evidently helps evaluate, test, and monitor data and ML-powered systems.
