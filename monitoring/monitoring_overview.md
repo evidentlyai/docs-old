@@ -2,6 +2,10 @@
 description: How to set up online evaluations and monitoring. 
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 AI quality monitoring automatically evaluates your AI application’s inputs and outputs. This helps you spot and fix issues while keeping an up-to-date view of your system behavior.
 
 {% hint style="info" %}
