@@ -2,6 +2,10 @@
 description: Open-source metrics for ranking and recommendations.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 The following metrics can be used for ranking, retrieval and recommender systems. 
 
 # Recall 

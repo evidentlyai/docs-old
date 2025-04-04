@@ -2,6 +2,11 @@
 description: Log Evidently metrics with DVC via DVCLive.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 *This is a community-contributed integration. Author: [Francesco Calcavecchia](https://github.com/francesco086).*
 
 **TL;DR:** You can use Evidently to calculate metrics, and DVCLive to log and view the results.

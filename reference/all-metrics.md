@@ -2,6 +2,11 @@
 description: List of Metrics, Descriptors and Metric Presets available in Evidently.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 <details>
 
 <summary>How to use this page</summary>

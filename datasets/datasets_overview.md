@@ -2,6 +2,10 @@
 description: Introduction to Datasets in Evidently Platform. 
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 This section covers how work with Datasets in Evidently Platform.  
 
 {% hint style="success" %}

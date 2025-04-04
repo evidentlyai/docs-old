@@ -2,6 +2,10 @@
 description: How to send data in near real-time using the Collector service.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Overview
 
 In this scenario, you deploy an **Evidently Collector** service for near real-time monitoring. 

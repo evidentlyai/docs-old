@@ -2,6 +2,11 @@
 description: How to create and evaluate an LLM judge. 
 ---
 
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In this tutorial, we'll show you how to build an evaluator for text outputs using another LLM as the judge. This lets you automatically assess the quality of your system's responses based on your custom criteria.
 
 {% hint style="info" %}

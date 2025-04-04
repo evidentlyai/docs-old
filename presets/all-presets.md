@@ -2,6 +2,10 @@
 description: An overview of the evaluations you can do with Evidently. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 Evidently has several pre-built reports and test suites. We call them **Presets**. Each preset evaluates or tests a particular aspect of the data or model quality. 
 
 This page links to the **description** of each preset. To see the code and interactive examples, head to [example notebooks](../examples/examples.md) instead.

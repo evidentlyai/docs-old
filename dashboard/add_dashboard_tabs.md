@@ -2,6 +2,11 @@
 description: Get a pre-built monitoring Dashboard using templates.
 ---   
 
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Pre-built Tabs
 {% hint style="success" %}
 Dashboard templates is a Pro feature available in the Evidently Cloud and Enterprise. 

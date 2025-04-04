@@ -2,6 +2,10 @@
 description: How to capture LLM inputs and outputs and view them in Evidently Cloud.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In this tutorial, you will learn how to set up tracing for an LLM application to collect inputs and outputs of your generative AI application and view the collected traces in Evidently Cloud. You can later run evaluations on the created datasets. 
 
 You will use the following tools:

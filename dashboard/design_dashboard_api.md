@@ -2,6 +2,10 @@
 description: Design your Dashboard with custom Panels.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 We recommend starting with [pre-built Tabs](add_dashboard_tabs.md) for a quick start. 
 
 # Code example

@@ -2,6 +2,11 @@
 description: Evaluate and test your LLM use case in 15 minutes. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 Evaluating the quality of LLM outputs is essential for building a production-grade LLM application. During development, you need to compare quality with different prompts and detect regressions. Once your app is live, you need to ensure outputs are safe and accurate and understand user behavior.
 
 Manually reviewing individual outputs doesn't scale. This tutorial shows you how to automate LLM evaluations from experiments to production.

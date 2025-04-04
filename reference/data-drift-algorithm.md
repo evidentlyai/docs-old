@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In some tests and metrics, Evidently uses the default Data Drift Detection algorithm. It helps detect the distribution drift in the individual features, prediction, or target. This page describes how the **default** algorithm works.
 
 # How it works

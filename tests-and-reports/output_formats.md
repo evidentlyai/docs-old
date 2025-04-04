@@ -2,6 +2,10 @@
 description: How to export the results of evaluations.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 You can view or export results from Evidently Reports or Test Suites in multiple formats.
 
 # View in Jupyter notebook 

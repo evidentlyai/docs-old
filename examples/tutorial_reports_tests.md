@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In this tutorial, you will use the Evidently open-source Python library to evaluate **data stability** and **data drift** on tabular data. You will run batch checks on a toy dataset and generate visual Reports and Test Suites in your Python environment.
 
 We recommend going through this tutorial once to understand the basic functionality. Once you complete it, you will be ready to use all Evidently evaluations, including checks for ML model quality or text data.  

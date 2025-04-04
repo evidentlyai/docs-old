@@ -2,6 +2,10 @@
 description: Run model evaluation or data drift analysis as a part of Airflow DAG.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 Apache Airflow is an open-source [workflow management tool](https://airflow.apache.org).
 
 You can generate Evidently Reports and Test Suites as a step in the Airflow DAG.

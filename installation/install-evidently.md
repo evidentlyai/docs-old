@@ -2,6 +2,10 @@
 description: How to install the open-source Python library.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Evidently 
 
 `Evidently` is available as a Python package. To install it using the **pip package manager**, run:

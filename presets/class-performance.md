@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 **TL;DR:** You can use the pre-built Reports and Test suites to analyze the performance of a classification model. The Presets work for binary and multi-class classification, probabilistic and non-probabilistic classification. 
 
 * **Report**: for visual analysis or metrics export, use the `ClassificationPreset`. 

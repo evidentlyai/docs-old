@@ -2,6 +2,10 @@
 description: Introduction to Reports and Test Suites.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 {% hint style="success" %}
 This applies to `Evidently OSS`, `Evidently Cloud` and `Evidently Enterprise`. 
 {% endhint %}

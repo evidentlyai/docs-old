@@ -2,6 +2,10 @@
 description: How to run evaluations for text data with Descriptors. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 A Descriptor is a row-level score evaluating a specific characteristic of a text data. A simple example is text length. 
 
 Descriptors range from regular expressions and text statistics to ML- and LLM-based checks. For example, you can calculate the semantic similarity between two texts, or ask LLM to label responses as "relevant" or "not relevant". 

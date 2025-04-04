@@ -2,6 +2,10 @@
 description: Using Evidently in Colab and other notebook environments.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 You can use Evidently Python library to generate visual HTML reports, JSON, and Python dictionary output directly in the notebook environment. You can also save the HTML reports externally and open them in the browser.
 
 By default, Evidently is tested to work in **Jupyter notebook** on MAC OS and Linux and **Google Colab**.

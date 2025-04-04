@@ -2,6 +2,10 @@
 description: Create live dashboards for ML monitoring.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # Evidently and Grafana
 
 Evidently has a monitoring service component that collects data and model metrics from an ML service. It is based on the shared `Analyzer` functionality and can compute the same metrics and statistical tests as `Dashboards` and JSON `Profiles`.

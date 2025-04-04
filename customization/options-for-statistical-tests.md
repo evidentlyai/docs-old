@@ -2,6 +2,11 @@
 description: How to set custom data drift conditions and thresholds for tabular and text data. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 **Pre-requisites**:
 * You know how to generate Reports or Test Suites with default parameters.
 * You know how to pass custom parameters for Reports or Test Suites.

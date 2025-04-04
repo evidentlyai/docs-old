@@ -2,6 +2,10 @@
 description: How to implement a new drift detection method. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 **Pre-requisites**:
 * You know how to set custom drift methods and which methods are available in the library.
 

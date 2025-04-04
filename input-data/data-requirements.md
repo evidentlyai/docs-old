@@ -2,6 +2,10 @@
 description: How to prepare the data to run Evidently Reports or Test Suites.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 To run evaluations on your datasets with the Evidently Python library, you should prepare your data in a certain way. This section covers how to do that. 
 
 {% hint style="success" %}

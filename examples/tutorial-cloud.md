@@ -2,6 +2,10 @@
 description: Get started with Evidently Cloud. Run checks and customize a Dashboard in 15 minutes. 
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In this tutorial, you'll set up production data and ML monitoring for a toy ML model. You'll run evaluations in Python and access a web dashboard in Evidently Cloud.
 
 The tutorial consists of three parts:

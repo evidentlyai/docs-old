@@ -2,6 +2,10 @@
 description: Working with Datasets on Evidently Platform.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 To access or upload your Datasets, navigate to the [Datasets page](https://app.evidently.cloud/datasets) in the user interface. 
 
 You will be able to view all Datasets: created from traces, uploaded directly to the platform, or generated as a result of an evaluation.

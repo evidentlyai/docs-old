@@ -2,6 +2,11 @@
 description: How to define the data schema for classification.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 To evaluate classification model performance, you must correctly map the input data schema. 
 
 # Code example

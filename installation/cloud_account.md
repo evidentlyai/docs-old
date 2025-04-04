@@ -2,6 +2,10 @@
 description: How to set up Evidently Cloud account.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # 1. Create an Account
 
 If not yet, [sign up for a free Evidently Cloud account](https://app.evidently.cloud/signup). 

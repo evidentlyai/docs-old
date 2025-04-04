@@ -2,6 +2,11 @@
 description: Introduction to Projects in Evidently Platform. 
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 This section describes how to use Projects. This applies if you use the Evidently web application. You can also run evaluations locally with the Evidently Python library without creating a Project.
 
 {% hint style="success" %}

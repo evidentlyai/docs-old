@@ -1,3 +1,8 @@
+
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In this tutorial, you'll learn how to start with Evidently ML monitoring. You will launch a locally hosted dashboard to visualize the performance of a toy model.
 
 **Note**: If you want to start with ad hoc Reports and Tests without hosting a Monitoring UI service, go here instead: [Quickstart for Evidently Tests and Reports](../get-started/oss_quickstart_tabular.md).
