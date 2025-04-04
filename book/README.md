@@ -1,6 +1,6 @@
 
 {% hint style="info" %}
-**TEST You are looking at the legacy Evidently documentation**: Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the legacy Evidently documentation**: Check the newer version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 Evidently helps evaluate, test, and monitor data and ML-powered systems.
