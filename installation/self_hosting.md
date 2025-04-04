@@ -2,6 +2,10 @@
 description: How to self-host the open-source Evidently UI service.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 In addition to using Evidently Python library, you can self-host the UI Service to get a monitoring Dashboard and organize the results of your evaluations. This is optional: you can also run evaluations and render results directly in Python or export them elsewhere.
 
 {% hint style="info" %}
