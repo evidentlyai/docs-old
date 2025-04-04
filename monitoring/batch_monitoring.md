@@ -2,6 +2,11 @@
 description: How to run batch monitoring workflows.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
+
 For an overview of monitoring architectures, read the [introduction](monitoring_overview.md).
 
 In a batch monitoring workflow, you regularly run evaluation jobs and log the results to the Evidently Platform for ongoing monitoring.
