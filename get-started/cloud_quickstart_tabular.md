@@ -3,7 +3,7 @@ description: ML Monitoring “Hello world.” From data to dashboard in a couple
 ---
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 # 1. Set up Evidently Cloud 
