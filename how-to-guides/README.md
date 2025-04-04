@@ -2,6 +2,10 @@
 description: How-to guides.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 These example notebooks and how-to guides show how to solve specific tasks. You can also browse on [GitHub](https://github.com/evidentlyai/evidently/tree/main/examples/how_to_questions).
 
 Topic | Question| Guide or example 
