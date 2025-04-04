@@ -6,6 +6,10 @@ description: Introduction to Dashboards.
 Supported in: `Evidently OSS`, `Evidently Cloud` and `Evidently Enterprise`.
 {% endhint %}
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 # What is a Dashboard?
 
 Each Project has its Dashboard. A Dashboard lets you evaluation results over time, providing a clear view of the quality of your AI application and data.
