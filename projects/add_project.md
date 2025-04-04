@@ -2,6 +2,10 @@
 description: Set up a Project for your evaluation or monitoring use case.
 ---   
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 Before creating a Project, you need a Workspace.
 
 * In Evidently Cloud, your account is your Workspace. [Set up an account and connect from Python](../installation/cloud_account.md).
