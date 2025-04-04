@@ -2,6 +2,10 @@
 description: How to define the data schema for ranking and recommendations.
 ---
 
+{% hint style="info" %}
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+{% endhint %}
+
 To evaluate data from recommender systems, you must correctly map the input data schema. You can also pass an optional additional dataset with training data. 
 
 **Note**: this mapping will also apply to search and retrieval systems. Treat "user_id" as "query_id".
