@@ -10,7 +10,7 @@ description: You can modify the colors in the Reports and Tests.
 
 You can refer to an example How-to-notebook showing how to customize the color schema in your reports and test suites:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_customize_color_schema.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_customize_color_schema.ipynb" %}
 
 # Options for Color Scheme 
 
