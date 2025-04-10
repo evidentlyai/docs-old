@@ -14,7 +14,7 @@ description: How to change data aggregation in plots.
 
 You can refer to an example How-to-notebook:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_use_aggregated_data_option.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_use_aggregated_data_option.ipynb" %}
 
 # Default
 
