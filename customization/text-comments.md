@@ -12,7 +12,7 @@ description: How to add a widget with custom text.
 # Code example
 
 How-to notebook:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_add_a_text_comment_to_the_report.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_add_a_text_comment_to_the_report.ipynb" %}
 
 # What you can do
 
