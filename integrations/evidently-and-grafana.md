@@ -30,7 +30,7 @@ You can use this same stack for ML monitoring. In this case, Evidently provides 
 
 **An integration example is available as a Docker container:**
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/integrations/grafana_monitoring_service" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/grafana_monitoring_service" %}
 
 It contains a script that will spin up the example locally. Follow the readme to install and modify the example to adapt it to your use case.
 
