@@ -80,7 +80,7 @@ In this section, you will create a new project as if you add a new ML model to m
 All steps are available as a Python script. 
 
 You can access it here: 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/sample_notebooks/get_started_monitoring.py" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/get_started_monitoring.py" %}
 
 **Note**: we assume you already installed Evidently at the previous step.
 
