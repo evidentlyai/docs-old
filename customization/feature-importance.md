@@ -14,7 +14,7 @@ You can add feature importances to the dataset-level data drift Tests and Metric
 
 Notebook example on showing feature importance:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_add_feature_importances_to_drift.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_add_feature_importances_to_drift.ipynb" %}
 
 # Compute feature importances
 
