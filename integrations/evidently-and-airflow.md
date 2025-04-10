@@ -12,7 +12,7 @@ You can generate Evidently Reports and Test Suites as a step in the Airflow DAG.
 
 **An integration example is available as a Docker container:**
 
-{% embed url="https://github.com/evidentlyai/evidently/tree/main/examples/integrations/airflow_drift_detection" %}
+{% embed url="https://github.com/evidentlyai/evidently/tree/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/airflow_drift_detection" %}
 
 Follow the readme to install and modify the example. You can execute different Evidently Reports and Test Suites in a similar fashion.
 
@@ -26,7 +26,7 @@ You can generate an Evidently HTML report (e.g., a data drift report) every time
 
 **Here is a DAG example:**
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/integrations/airflow_drift_detection/dags/evidently_drift_report.py" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/airflow_drift_detection/dags/evidently_drift_report.py" %}
 
 ## 2. Generate visual performance reports on defined conditions 
 
@@ -38,7 +38,7 @@ In this example, you perform drift checks without generating the visual report. 
 
 **Here is a DAG example:**
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/integrations/airflow_drift_detection/dags/evidently_conditional_drift_report_generation.py" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/airflow_drift_detection/dags/evidently_conditional_drift_report_generation.py" %}
 
 ## 3. Run test suites to perform multiple checks 
 
@@ -50,4 +50,4 @@ Using Test Suites instead of Reports is recommended for production use and autom
 
 **Here is a DAG example:**
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/integrations/airflow_drift_detection/dags/evidently_test_suite.py" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/airflow_drift_detection/dags/evidently_test_suite.py" %}
