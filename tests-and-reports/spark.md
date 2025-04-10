@@ -35,7 +35,7 @@ The following data types are supported:
 
 You can refer to an example How-to-notebook showing how to use Evidently on Spark:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_run_calculations_on_spark.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_run_calculations_on_spark.ipynb" %}
 
 # Run Evidently with Spark
 
