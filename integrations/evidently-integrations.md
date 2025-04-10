@@ -3,7 +3,7 @@ description: Overview of the available Evidently integrations.
 ---
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer docs version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 Evidently is a Python library, and can be easily integrated with other tools to fit into the existing workflows.
