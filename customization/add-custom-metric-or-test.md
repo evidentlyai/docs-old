@@ -1,6 +1,6 @@
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer docs version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
 
 There are two ways to add a custom Metric or Test to Evidently:
