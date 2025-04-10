@@ -9,7 +9,7 @@ description: Log Evidently metrics in the MLflow UI.
 **TL;DR:** You can use Evidently to calculate metrics, and MLflow Tracking to log and view the results. 
 
 Jupyter notebook with en example:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/integrations/mlflow_logging/mlflow_integration.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/integrations/mlflow_logging/mlflow_integration.ipynb" %}
 
 # **Overview**
 
