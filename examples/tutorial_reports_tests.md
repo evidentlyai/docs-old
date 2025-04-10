@@ -13,11 +13,8 @@ To complete the tutorial, you need basic knowledge of Python. You should be able
 
 You can reproduce the steps in Jupyter notebooks or Colab or open and run a sample notebook from the links below.  
 
-Colab:
-{% embed url="https://colab.research.google.com/drive/1j0Wh4LM0mgMuDY7LQciLaUV4G1khB-zb" %}
-
 Jupyter notebook:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/sample_notebooks/getting_started_tutorial.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/getting_started_tutorial.ipynb" %}
 
 Video version:
 {% embed url="https://youtu.be/2d5AgPKbthE" %}
