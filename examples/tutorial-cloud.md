@@ -91,9 +91,7 @@ However, the core workflow tutorial covers will work for any evaluation. You can
 To complete the tutorial, use the provided code snippets or run a sample notebook.
 
 Jupyter notebook:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/sample_notebooks/data_and_ml_monitoring_tutorial.ipynb" %}
-
-Or click to [open in Colab](https://colab.research.google.com/github/evidentlyai/evidently/blob/main/examples/sample_notebooks/data_and_ml_monitoring_tutorial.ipynb).
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/data_and_ml_monitoring_tutorial.ipynb" %}
 
 ## 1. Installation and imports
 
