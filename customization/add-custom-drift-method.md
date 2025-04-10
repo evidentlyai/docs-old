@@ -16,7 +16,7 @@ If you do not find a suitable drift detection method, you can implement a custom
 
 Notebook example with custom data drift function example:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_specify_stattest_for_a_testsuite.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_specify_stattest_for_a_testsuite.ipynb" %}
 
 # Custom StatTest function requirements:
 
