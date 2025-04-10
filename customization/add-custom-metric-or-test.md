@@ -21,7 +21,7 @@ You can implement any custom Metric or Test as a Python function. The visual ren
 This is a recommended path to add custom Metrics. Using this method, you can send Reports with custom Metrics to Evidently Cloud (or view them in the self-hosted Monitoring UI).
 
 Example notebook: 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_build_metric_over_python_function.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_build_metric_over_python_function.ipynb" %}
 
 # 2. Implement a new Metric and Test from scratch. 
 
