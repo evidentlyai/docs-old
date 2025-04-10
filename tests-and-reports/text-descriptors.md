@@ -21,10 +21,10 @@ You can use Descriptors in two ways:
 # Code examples
 
 Using descriptors to evaluate LLM outputs using `TextEvals` Preset:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_evaluate_llm_with_text_descriptors.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_evaluate_llm_with_text_descriptors.ipynb" %}
 
 Using descriptors with tabular Metrics and Tests:
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_apply_table_metrics_and_tests_to_text_descriptors.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_apply_table_metrics_and_tests_to_text_descriptors.ipynb" %}
 
 # Imports
 
