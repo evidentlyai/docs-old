@@ -18,9 +18,9 @@ Title| Guide | Code
 -- | -- | --
 LLM Evaluation | [Tutorial](tutorial-llm.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/llm_evaluation_tutorial.ipynb)
 Data & ML Monitoring | [Tutorial](tutorial-cloud.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/data_and_ml_monitoring_tutorial.ipynb)
-LLM Tracing| [Tutorial](tracing.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/llm_tracing_tutorial.ipynb) 
+LLM Tracing| [Tutorial](tutorial_tracing.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/llm_tracing_tutorial.ipynb) 
 Intro to Reports & Test Suites (OSS) | [Tutorial](tutorial_reports_tests.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/getting_started_tutorial.ipynb)
-Self-host ML monitoring Dashboard (OSS)| [Tutorial](https://docs.evidentlyai.com/get-started/tutorial-monitoring) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/get_started_monitoring.py)
+Self-host ML monitoring Dashboard (OSS)| [Tutorial](tutorial-monitoring.md) | [Jupyter notebook](https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/sample_notebooks/get_started_monitoring.py)
 
 
 # Example Reports and Tests 
