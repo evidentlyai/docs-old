@@ -3,9 +3,8 @@ description: Run your first evaluation using Evidently open-source, for tabular 
 ---
 
 {% hint style="info" %}
-**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower. Check the newer version [here](https://docs.evidentlyai.com/introduction).
+**You are looking at the old Evidently documentation**: this API is available with versions 0.6.7 or lower and Evidently Cloud v1. Check the newer version [here](https://docs.evidentlyai.com/introduction).
 {% endhint %}
-
 
 It's best to run this example in Jupyter Notebook or Google Colab so that you can render HTML Reports directly in a notebook cell.
 
