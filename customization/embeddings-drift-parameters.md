@@ -15,7 +15,7 @@ description: How to customize data drift detection for embeddings.
 
 You can refer to an example How-to-notebook showing how to pass parameters for different embeddings drift detection methods:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_calculate_embeddings_drift.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_calculate_embeddings_drift.ipynb" %}
 
 # Default
 
