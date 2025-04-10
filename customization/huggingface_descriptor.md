@@ -21,7 +21,7 @@ Evidently supports using HuggingFace models: use the general `HuggingFaceModel()
 
 You can refer to an end-to-end example with different Descriptors:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_evaluate_llm_with_text_descriptors.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_evaluate_llm_with_text_descriptors.ipynb" %}
 
 To import the Descriptor:
 
