@@ -13,7 +13,7 @@ description: How to modify what is included in the Evidently JSON or Python dict
 
 Notebook example on JSON / Python dictionary customization:
 
-{% embed url="https://github.com/evidentlyai/evidently/blob/main/examples/how_to_questions/how_to_customize_json_output.ipynb" %}
+{% embed url="https://github.com/evidentlyai/evidently/blob/ad71e132d59ac3a84fce6cf27bd50b12b10d9137/examples/how_to_questions/how_to_customize_json_output.ipynb" %}
 
 **Note**: to export the Evidently Metric output in the tabular format, you can use the `as_dataframe()` option instead of JSON or Python dictionary export. 
 
